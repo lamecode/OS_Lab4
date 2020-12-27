@@ -90,7 +90,7 @@ public class Main {
     }
 
     public static void printMatrix(int[][] matrix) {
-        System.out.println("Початкова матриця задач:");
+        System.out.println("Стан матриці задач:");
         int[] row;
         for (int i = 0; i < matrix.length; i++) {
             row = matrix[i];
